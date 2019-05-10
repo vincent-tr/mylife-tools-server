@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/vincent-tr/mylife-tools-server#readme",
   "dependencies": {
+    "deep-freeze": "0.0.1",
+    "read-config": "^2.0.0",
     "winston": "^3.2.1"
   }
 }
