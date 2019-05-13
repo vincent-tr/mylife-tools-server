@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "MyLife Tools Server",
   "main": "lib/index.js",
+  "bin": {
+    "build": "./bin/build.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,9 +24,11 @@
     "express": "^4.16.4",
     "read-config": "^2.0.0",
     "serve-favicon": "^2.5.0",
-    "webpack": "^4.31.0",
-    "webpack-dev-middleware": "^3.6.2",
     "winston": "^3.2.1",
     "yargs": "^13.2.2"
+  },
+  "devDependencies": {
+    "webpack": "^4.31.0",
+    "webpack-dev-middleware": "^3.6.2"
   }
 }
