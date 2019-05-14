@@ -26,6 +26,7 @@
     "express": "^4.16.4",
     "read-config": "^2.0.0",
     "serve-favicon": "^2.5.0",
+    "server-destroy": "^1.0.1",
     "winston": "^3.2.1",
     "yargs": "^13.2.2"
   },
