@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/vincent-tr/mylife-tools-server#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "deep-freeze": "0.0.1",
     "express": "^4.16.4",
     "read-config": "^2.0.0",
