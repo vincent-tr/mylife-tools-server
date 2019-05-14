@@ -4,7 +4,7 @@
   "description": "MyLife Tools Server",
   "main": "lib/index.js",
   "bin": {
-    "build": "./bin/build.js"
+    "mylife-build": "./bin/build.js"
   },
   "scripts": {
     "lint": "./node_modules/.bin/eslint lib/",
