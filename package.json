@@ -24,6 +24,7 @@
     "body-parser": "^1.19.0",
     "deep-freeze": "0.0.1",
     "express": "^4.16.4",
+    "mongodb": "^3.2.4",
     "read-config": "^2.0.0",
     "serve-favicon": "^2.5.0",
     "server-destroy": "^1.0.1",
