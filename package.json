@@ -26,6 +26,7 @@
     "deep-freeze": "0.0.1",
     "express": "^4.17.1",
     "mongodb": "^3.3.0",
+    "mylife-tools-common": "^1.0.0",
     "read-config": "^2.0.0",
     "serve-favicon": "^2.5.0",
     "server-destroy": "^1.0.1",
