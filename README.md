@@ -1,6 +1,12 @@
 # mylife-tools-server
 MyLife Tools Server
 
+ ## Build
+  - npm update
+  - npm version
+  - git push && git push --tags
+  - npm publish
+
 ## mylife common
 
 ### common
