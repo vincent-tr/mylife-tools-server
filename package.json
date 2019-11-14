@@ -1,6 +1,6 @@
 {
   "name": "mylife-tools-server",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "MyLife Tools Server",
   "main": "lib/index.js",
   "scripts": {
