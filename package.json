@@ -23,7 +23,7 @@
     "deep-freeze": "0.0.1",
     "express": "^4.17.1",
     "fast-deep-equal": "^2.0.1",
-    "mongodb": "^3.3.3",
+    "mongodb": "^3.3.4",
     "mylife-tools-common": "^1.0.1",
     "read-config": "^2.0.0",
     "serve-favicon": "^2.5.0",
