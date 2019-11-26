@@ -5,8 +5,7 @@
   "main": "lib/index.js",
   "scripts": {
     "lint": "./node_modules/.bin/eslint lib/",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "links:dev": "npm link mylife-tools-common && npm link mylife-tools-build"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
