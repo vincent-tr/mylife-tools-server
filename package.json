@@ -23,13 +23,13 @@
     "express": "^4.17.1",
     "fast-deep-equal": "^2.0.1",
     "mongodb": "^3.3.4",
-    "mylife-tools-common": "^1.0.1",
+    "mylife-tools-common": "^1.0.2",
     "read-config": "^2.0.0",
     "serve-favicon": "^2.5.0",
     "server-destroy": "^1.0.1",
     "socket.io": "^2.3.0",
     "winston": "^3.2.1",
-    "xlsx": "^0.15.1",
+    "xlsx": "^0.15.2",
     "yargs": "^13.3.0"
   }
 }
